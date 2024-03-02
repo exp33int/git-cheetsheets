@@ -6,4 +6,8 @@ This cheatsheet features the most important and commonly used Git commands for e
 
 1. [SETUP](./SETUP.md)
 2. [SETUP AND INIT](./SETUP-AND-INIT.md)
-3. [SETUP AND SNAPSHOT](./STAGE-AND-SNAPSHOT.md)  
+3. [SETUP AND SNAPSHOT](./STAGE-AND-SNAPSHOT.md)
+4. [SSH](./SSH.md)
+5. [LOG](./LOG.md)
+6. [HEAD](./HEAD.md)
+7. [STATUSES](./STATUSES.md)  
